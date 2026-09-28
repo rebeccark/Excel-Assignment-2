@@ -1,3 +1,5 @@
+
+[Excel_Assignment_2_Answers.xlsx](https://github.com/user-attachments/files/32762004/Excel_Assignment_2_Answers.xlsx)
 <img width="1872" height="837" alt="image" src="https://github.com/user-attachments/assets/baf8adab-8a39-43ac-afc5-3d7816e73b62" />
 [Excel_Assignment_2_Answers.xlsx](https://github.com/user-attachments/files/32621440/Excel_Assignment_2_Answers.xlsx)
 # Excel-Assignment-2
